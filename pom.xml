@@ -397,6 +397,7 @@
                 <module>ddd</module>
                 <!-- <module>ddd-modules</module>--> <!-- we haven't upgraded to Java 9 -->
                 <module>deeplearning4j</module>
+                <module>discord4j</module>
                 <module>disruptor</module>
                 <module>dozer</module>
                 <module>drools</module>
@@ -696,7 +697,6 @@
                 <module>spring-reactor</module>
                 <module>spring-remoting</module>
                 <module>spring-rest-angular</module>
-                <module>spring-rest-compress</module>
                 <module>spring-rest-http</module>
                 <module>spring-rest-http-2</module>
                 <module>spring-rest-query-language</module>
@@ -909,6 +909,7 @@
                 <module>ddd</module>
                 <!-- <module>ddd-modules</module>--> <!-- we haven't upgraded to Java 9 -->
                 <module>deeplearning4j</module>
+                <module>discord4j</module>
                 <module>disruptor</module>
                 <module>dozer</module>
                 <module>drools</module>
@@ -1198,7 +1199,6 @@
                 <module>spring-reactor</module>
                 <module>spring-remoting</module>
                 <module>spring-rest-angular</module>
-                <module>spring-rest-compress</module>
                 <module>spring-rest-http</module>
                 <module>spring-rest-query-language</module>
                 <module>spring-rest-shell</module>
@@ -1471,7 +1471,6 @@
         <exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
         <java.version>1.8</java.version>
         <log4j.version>1.2.17</log4j.version>
-        <moneta.version>1.1</moneta.version>
         <esapi.version>2.1.0.1</esapi.version>
         <jmh-core.version>1.19</jmh-core.version>
         <jmh-generator.version>1.19</jmh-generator.version>
